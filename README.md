@@ -63,7 +63,7 @@ This project is licensed under the **MIT License** — free to use, share, and c
 
 ## ✍️ Author
 
-**Asuman Yayla** — Software Engineer | Passionate about Clean Code & Design Patterns
+**Asuman Yayla** — Software Engineer 
 
 ---
 
